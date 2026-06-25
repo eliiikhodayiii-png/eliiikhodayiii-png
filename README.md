@@ -4,7 +4,12 @@
 
 ![Views](https://komarev.com/ghpvc/?username=eli-khodayi-dev&color=blue)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eli-khodayi-dev" alt="eli-khodayi-dev" /></a> </p>
+<p align="left"> 
+  <a href="https://github.com/eli-khodayi-dev">
+    <img src="https://github-profile-trophy.vercel.app/?username=eli-khodayi-dev" alt="eli-khodayi-dev" />
+  </a> 
+</p>
+
 
 - 🔭 I'm currently working on **Responsive web designs and UI/UX improvements and javascript**
 
